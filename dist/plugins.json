@@ -77,12 +77,12 @@
       "version": "1.1.0"
     },
     {
-      "name": "qq_1",
+      "name": "qq",
       "url": "https://13413.kstore.vip/yuanli/qq.js",
       "version": "1.1.1"
     },
     {
-      "name": "mg",
+      "name": "mg_1",
       "url": "https://13413.kstore.vip/yuanli/xiaomi.js",
       "version": "1.1.0"
     },
@@ -152,7 +152,7 @@
       "version": "0.0.2"
     },
     {
-      "name": "W电台_1",
+      "name": "W电台",
       "url": "https://fastly.jsdelivr.net/gh/GuGuMur/MusicFreePlugin-NeteaseRadio@master/dist/plugin.js",
       "version": "0.0.2"
     },
@@ -167,24 +167,44 @@
       "version": "0.1.0"
     },
     {
-      "name": "酷我_2",
+      "name": "酷我_1",
       "url": "http://music.haitangw.net/cqapi/kw.js",
       "version": "0.1.0"
     },
     {
-      "name": "酷我_1",
+      "name": "酷我_2",
       "url": "http://music.haitangw.net/cqapi/kg.js",
       "version": "0.1.0"
     },
     {
-      "name": "qq",
+      "name": "qq_1",
       "url": "http://music.haitangw.net/cqapi/qq.js",
       "version": "0.1.0"
     },
     {
-      "name": "mg_1",
+      "name": "mg",
       "url": "http://music.haitangw.net/cqapi/xiaomi.js",
       "version": "0.1.0"
+    },
+    {
+      "name": "腾讯音乐",
+      "url": "http://51.195.241.253:8080/https://raw.githubusercontent.com/ThomasBy2025/musicfree/refs/heads/main/plugins/tx.js",
+      "version": "2025.09.13"
+    },
+    {
+      "name": "网易音乐",
+      "url": "http://51.195.241.253:8080/https://raw.githubusercontent.com/ThomasBy2025/musicfree/refs/heads/main/plugins/wy.js",
+      "version": "2025.09.14"
+    },
+    {
+      "name": "酷狗音乐",
+      "url": "http://51.195.241.253:8080/https://raw.githubusercontent.com/ThomasBy2025/musicfree/refs/heads/main/plugins/kg.js",
+      "version": "2025.09.14"
+    },
+    {
+      "name": "酷我音乐",
+      "url": "http://51.195.241.253:8080/https://raw.githubusercontent.com/ThomasBy2025/musicfree/refs/heads/main/plugins/kw.js",
+      "version": "2025.09.16"
     },
     {
       "name": "汽水音乐",
@@ -192,7 +212,12 @@
       "version": "0.1.5"
     },
     {
-      "name": "W电台",
+      "name": "GitCode",
+      "url": "http://51.195.241.253:8080/https://raw.githubusercontent.com/ThomasBy2025/musicfree/refs/heads/main/plugins/git.js",
+      "version": "2025.08.26"
+    },
+    {
+      "name": "W电台_1",
       "url": "https://cdn.jsdelivr.net/gh/GuGuMur/MusicFreePlugin-NeteaseRadio@master/dist/plugin.js",
       "version": "0.0.2"
     }
