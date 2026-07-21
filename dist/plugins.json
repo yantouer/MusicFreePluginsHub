@@ -62,6 +62,31 @@
       "version": "0.0.2"
     },
     {
+      "name": "网易",
+      "url": "https://13413.kstore.vip/yuanli/wy.js",
+      "version": "1.2.0"
+    },
+    {
+      "name": "酷我",
+      "url": "https://13413.kstore.vip/yuanli/kw.js",
+      "version": "1.2.0"
+    },
+    {
+      "name": "酷gou",
+      "url": "https://13413.kstore.vip/yuanli/kg.js",
+      "version": "1.2.0"
+    },
+    {
+      "name": "qq",
+      "url": "https://13413.kstore.vip/yuanli/qq.js",
+      "version": "1.2.0"
+    },
+    {
+      "name": "mg",
+      "url": "https://13413.kstore.vip/yuanli/xiaomi.js",
+      "version": "1.2.0"
+    },
+    {
       "name": "歌曲宝",
       "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/gequbao.js",
       "version": "0.0.6"
@@ -137,7 +162,7 @@
       "version": "0.1.2"
     },
     {
-      "name": "W电台_1",
+      "name": "W电台",
       "url": "https://fastly.jsdelivr.net/gh/GuGuMur/MusicFreePlugin-NeteaseRadio@master/dist/plugin.js",
       "version": "0.0.2"
     },
@@ -154,6 +179,31 @@
     {
       "name": "全民K歌",
       "url": "http://adad23u.appinstall.life/dist/qmkg/index.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "网易_1",
+      "url": "http://music.haitangw.net/cqapi/wy.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "酷我_2",
+      "url": "http://music.haitangw.net/cqapi/kw.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "酷我_1",
+      "url": "http://music.haitangw.net/cqapi/kg.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "qq_1",
+      "url": "http://music.haitangw.net/cqapi/qq.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "mg_1",
+      "url": "http://music.haitangw.net/cqapi/xiaomi.js",
       "version": "0.1.0"
     },
     {
@@ -187,7 +237,7 @@
       "version": "2025.08.26"
     },
     {
-      "name": "W电台",
+      "name": "W电台_1",
       "url": "https://cdn.jsdelivr.net/gh/GuGuMur/MusicFreePlugin-NeteaseRadio@master/dist/plugin.js",
       "version": "0.0.2"
     }
